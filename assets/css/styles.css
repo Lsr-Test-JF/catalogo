@@ -1,0 +1,60 @@
+:root {
+  --bg: #0b1220;
+  --panel: #121b2d;
+  --panel-2: #17233a;
+  --text: #e6edf7;
+  --muted: #9fb0cb;
+  --primary: #4ea3ff;
+  --accent: #58d9b2;
+  --border: #27334d;
+}
+* { box-sizing: border-box; }
+body { margin: 0; font-family: Inter, system-ui, -apple-system, Segoe UI, Roboto, sans-serif; background: linear-gradient(180deg,#09101d,#0f1728 40%,#0d1524); color: var(--text); }
+a { color: inherit; text-decoration: none; }
+.container { width: min(1120px, 92%); margin: 0 auto; }
+.site-header { position: sticky; top: 0; z-index: 20; backdrop-filter: blur(8px); background: color-mix(in srgb, #0b1220 88%, transparent); border-bottom: 1px solid var(--border); }
+.nav { display: flex; justify-content: space-between; align-items: center; padding: .9rem 0; }
+.brand { font-weight: 800; letter-spacing: .3px; }
+nav { display: flex; gap: 1rem; }
+nav a { color: var(--muted); padding: .4rem .6rem; border-radius: .5rem; }
+nav a.active, nav a:hover { color: #fff; background: var(--panel-2); }
+.hero { display: grid; gap: 1rem; grid-template-columns: 1fr; padding: 3rem 0 1.8rem; }
+.eyebrow { color: var(--accent); font-weight: 600; text-transform: uppercase; letter-spacing: .08em; font-size: .78rem; }
+h1, h2 { line-height: 1.15; margin: .2rem 0 .8rem; }
+h1 span { color: var(--primary); }
+.muted { color: var(--muted); }
+.hero-actions { display: flex; gap: .7rem; flex-wrap: wrap; margin-top: 1rem; }
+.btn { display: inline-flex; border-radius: .65rem; padding: .68rem 1rem; font-weight: 600; transition: transform .2s ease, background .2s ease; }
+.btn:hover { transform: translateY(-1px); }
+.btn.primary { background: linear-gradient(135deg, var(--primary), #6ca6ff); color: #061326; }
+.btn.ghost { border: 1px solid var(--border); }
+.hero-card, .filters, .product-card, .detail-layout, .empty { background: var(--panel); border: 1px solid var(--border); border-radius: .9rem; }
+.hero-card { padding: 1rem; display: grid; gap: .7rem; }
+.kpi { display: flex; justify-content: space-between; background: var(--panel-2); border-radius: .7rem; padding: .6rem .75rem; }
+.section { padding: 1.2rem 0 2.2rem; }
+.section-head { display:flex; justify-content:space-between; align-items:end; gap:1rem; flex-wrap:wrap; }
+.grid { display:grid; gap: .9rem; }
+.products-grid { grid-template-columns: repeat(auto-fill,minmax(240px,1fr)); }
+.product-card { overflow: hidden; transition: transform .2s ease, border-color .2s ease; }
+.product-card:hover { transform: translateY(-4px); border-color: #406091; }
+.product-thumb { width: 100%; aspect-ratio: 4/3; object-fit: cover; background: #0a1220; }
+.product-content { padding: .85rem; display:grid; gap:.4rem; }
+.chips { display:flex; gap:.35rem; flex-wrap:wrap; }
+.chip { font-size: .75rem; padding:.18rem .45rem; background:#1b2942; color:#c1d2ee; border-radius:999px; }
+.filters { padding: .85rem; margin: 1rem 0; display:grid; gap:.7rem; grid-template-columns: repeat(auto-fit,minmax(160px,1fr)); }
+label { display:grid; gap:.32rem; font-size:.85rem; color:var(--muted); }
+input,select { width:100%; background:#0f1a2e; color:var(--text); border:1px solid var(--border); border-radius:.55rem; padding:.55rem .6rem; }
+.pagination { margin-top: 1rem; display:flex; gap:.4rem; flex-wrap:wrap; }
+.page-btn { border:1px solid var(--border); background:var(--panel); color:var(--text); padding:.45rem .72rem; border-radius:.5rem; cursor:pointer; }
+.page-btn.active { background:var(--primary); color:#0a1220; border-color:transparent; }
+.site-footer { border-top: 1px solid var(--border); padding: 1rem 0; margin-top: 1rem; }
+.footer-wrap { display:flex; justify-content:space-between; gap:1rem; flex-wrap:wrap; color:var(--muted); font-size:.9rem; }
+.detail-layout { display:grid; gap:1rem; padding:1rem; grid-template-columns:1fr; }
+.detail-image { width:100%; max-height:420px; object-fit:contain; background:#081021; border-radius:.75rem; }
+.tech-table { width:100%; border-collapse: collapse; }
+.tech-table th,.tech-table td { border-bottom:1px solid var(--border); text-align:left; padding:.5rem .35rem; }
+.empty { padding: 1rem; text-align: center; }
+@media (min-width: 860px){
+  .hero{grid-template-columns:1.3fr .8fr; align-items:center;}
+  .detail-layout{grid-template-columns: minmax(260px, 360px) 1fr;}
+}

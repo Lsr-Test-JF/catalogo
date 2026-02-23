@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>LUSAR | Catálogo de Sapatas de Freio</title>
+    <meta name="description" content="Catálogo profissional de sapatas de freio para caminhões e ônibus. Busca instantânea, filtros avançados e páginas dinâmicas de produto." />
+    <link rel="stylesheet" href="assets/css/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container nav">
+        <a class="brand" href="index.html" aria-label="Página inicial">LUSAR Catálogo</a>
+        <nav aria-label="Navegação principal">
+          <a href="index.html" class="active">Início</a>
+          <a href="produtos.html">Produtos</a>
+        </nav>
+      </div>
+    </header>
+
+    <main>
+      <section class="hero container">
+        <div>
+          <p class="eyebrow">Fabricante de sapatas para linha pesada</p>
+          <h1>Catálogo digital profissional de <span>sapatas de freio</span></h1>
+          <p class="muted">Não trabalhamos com lonas de freio. Visualize toda a linha, filtre por marca, tipo e encontre rapidamente pelo código.</p>
+          <div class="hero-actions">
+            <a class="btn primary" href="produtos.html">Ver catálogo completo</a>
+            <a class="btn ghost" href="mailto:vendas@lusar.com.br">Falar com vendas</a>
+          </div>
+        </div>
+        <div class="hero-card" id="kpis" aria-live="polite"></div>
+      </section>
+
+      <section class="container section">
+        <div class="section-head">
+          <h2>Destaques do catálogo</h2>
+        </div>
+        <div id="featured-grid" class="grid products-grid"></div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-wrap">
+        <p>© <span id="year"></span> LUSAR. Catálogo de Sapatas de Freio.</p>
+        <p><a href="mailto:vendas@lusar.com.br">vendas@lusar.com.br</a></p>
+      </div>
+    </footer>
+
+    <script type="module" src="assets/js/main.js"></script>
+  </body>
+</html>
