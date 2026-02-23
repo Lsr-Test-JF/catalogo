@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Produtos | LUSAR Catálogo</title>
+    <meta name="description" content="Lista completa de sapatas de freio para caminhões e ônibus, com filtros combináveis e paginação automática." />
+    <link rel="stylesheet" href="assets/css/styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <div class="container nav">
+        <a class="brand" href="index.html">LUSAR Catálogo</a>
+        <nav aria-label="Navegação principal">
+          <a href="index.html">Início</a>
+          <a href="produtos.html" class="active">Produtos</a>
+        </nav>
+      </div>
+    </header>
+
+    <main class="container section">
+      <div class="section-head">
+        <h1>Catálogo de Produtos</h1>
+        <p class="muted">Filtros instantâneos por marca, categoria, tipo e busca textual.</p>
+      </div>
+
+      <section class="filters" aria-label="Filtros de produtos">
+        <label>
+          Busca
+          <input id="search" type="search" placeholder="Código ou nome" autocomplete="off" />
+        </label>
+        <label>
+          Marca
+          <select id="brandFilter"><option value="">Todas</option></select>
+        </label>
+        <label>
+          Categoria
+          <select id="categoryFilter"><option value="">Todas</option></select>
+        </label>
+        <label>
+          Tipo
+          <select id="typeFilter">
+            <option value="">Todos</option>
+            <option value="ar">Ar</option>
+            <option value="oleo">Óleo</option>
+          </select>
+        </label>
+      </section>
+
+      <p id="results-meta" class="muted" aria-live="polite"></p>
+      <div id="products-grid" class="grid products-grid"></div>
+      <nav id="pagination" class="pagination" aria-label="Paginação"></nav>
+    </main>
+
+    <footer class="site-footer">
+      <div class="container footer-wrap">
+        <p>Catálogo atualizado automaticamente via <code>/data/products.json</code>.</p>
+      </div>
+    </footer>
+
+    <script type="module" src="assets/js/products.js"></script>
+  </body>
+</html>

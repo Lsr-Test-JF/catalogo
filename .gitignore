@@ -1,0 +1,8 @@
+# Build/pack artifacts
+*.zip
+*.tar
+*.tar.gz
+
+# Local runtime/cache
+.build-cache/
+dist/
