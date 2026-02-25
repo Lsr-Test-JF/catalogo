@@ -29,7 +29,7 @@ function createRow(label, value) {
       : '<li>Consulte nossa equipe técnica para aplicações.</li>';
 
     const gallery = product.imagens
-      .map((img) => `<img class="detail-image" loading="lazy" src="${img}" alt="${product.nome}" />`)
+      .map((img) => `<img class="detail-image" loading="lazy" src="${img}" alt="${product.nome}" onerror="this.onerror=null;this.src='assets/images/products/placeholder.svg'" />`)
       .join('');
 
     container.innerHTML = `

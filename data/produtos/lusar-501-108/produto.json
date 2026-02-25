@@ -1,0 +1,27 @@
+{
+  "codigo": "LUSAR 501/108",
+  "nome": "Sapata de Freio LUSAR 501/108",
+  "marca_caminhao": "Chevrolet, Ford",
+  "categoria": "Sapata de Freio Hidráulica",
+  "tipo": "oleo",
+  "descricao": "Sapata de Freio LUSAR 501/108 desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "225.0771-SNº Chevrolet GM: 7.362.762Nº Ford: BE1C 2220ALonas: FRAS-LE: 2006-T | LONAFLEX: L-387 | THERMOID:Medidas do freio: 11” x 2”",
+    "Medidas do Freio": "11” x 2”",
+    "Tipo de Sistema": "Freio a óleo",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-501-108/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Chevrolet GM C–10 (64/Set-78), A-10, C-10 (1/2 TON) (79/85), A-14C, C-14C, AC-10 (85/...)",
+    "Ford F-100 (68/...)"
+  ],
+  "observacoes": "Todas as sapatas são fornecidas sem lonas.",
+  "marcas": [
+    "Chevrolet",
+    "Ford"
+  ],
+  "slug": "lusar-501-108"
+}

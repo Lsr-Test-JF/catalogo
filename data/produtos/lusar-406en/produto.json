@@ -1,0 +1,25 @@
+{
+  "codigo": "LUSAR 406EN",
+  "nome": "Sapata de Freio LUSAR 406EN",
+  "marca_caminhao": "Mercedes",
+  "categoria": "Sapata de Freio Hidráulica",
+  "tipo": "oleo",
+  "descricao": "Sapata de Freio LUSAR 406EN desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "Consultar catálogo técnico",
+    "Medidas do Freio": "418 mm x 160 mm",
+    "Tipo de Sistema": "Freio a óleo",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-406en/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Mercedes Benz MBB  0355, 0362, 0364, 1419, 1513, 1516, 1517, 1519, 2219 (Mar-77/...)"
+  ],
+  "observacoes": "MEDIDA DO PINO 30 mm x 95 mm",
+  "marcas": [
+    "Mercedes"
+  ],
+  "slug": "lusar-406en"
+}

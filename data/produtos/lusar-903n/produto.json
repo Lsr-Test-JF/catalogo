@@ -1,0 +1,29 @@
+{
+  "codigo": "LUSAR 903N",
+  "nome": "Sapata de Freio LUSAR 903N",
+  "marca_caminhao": "Chevrolet, Ford, Volkswagen",
+  "categoria": "Sapata de Freio Pesada",
+  "tipo": "ar",
+  "descricao": "Sapata de Freio LUSAR 903N desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "Consultar catálogo técnico",
+    "Medidas do Freio": "15” X 4”",
+    "Tipo de Sistema": "Freio a ar",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-903n/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Chevrolet GM 12.170, 14.190, 16.220 (98/...)",
+    "Ford C-1418, C-1514 (85/86), C-1314, C-1317, C-1517 (85/89), C-1218 (85/91), C-1615, C-1618, C-2217 (86/90), C-1215, C-1415 (86/96), C-2218 (87/90), C-2218 T (88/90), C-2422 (89/91), C-1419 (90/91), C-1619, C-32224 (90/97), C-2219 (90/...), C2219 T (90/...), C-1422 (92/96), F-22000 (86/91), F-12000 (87/96), F-11000 (89/92), F-14000 (89/96)",
+    "Volkswagen11.140 (89/90)"
+  ],
+  "observacoes": "Todas as sapatas são fornecidas sem lonas.",
+  "marcas": [
+    "Chevrolet",
+    "Ford",
+    "Volkswagen"
+  ],
+  "slug": "lusar-903n"
+}

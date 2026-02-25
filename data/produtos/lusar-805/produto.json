@@ -1,0 +1,26 @@
+{
+  "codigo": "LUSAR 805",
+  "nome": "Sapata de Freio LUSAR 805",
+  "marca_caminhao": "Iveco",
+  "categoria": "Sapata de Freio Pesada",
+  "tipo": "ar",
+  "descricao": "Sapata de Freio LUSAR 805 desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "A3222K1831Lonas: FRAS-LE: CA/32 | LONAFLEX: L-638 | THERMOID: TH-4516Medidas do freio: 419 mm x 203,2 mm / 16 ½” x 8\"",
+    "Medidas do Freio": "419 mm x 203,2 mm / 16 ½” x 8\"",
+    "Tipo de Sistema": "Freio a ar",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-805/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Trucks e Carretas (89/...)",
+    "Iveco Eurotech, Eurotrakker e Stralis"
+  ],
+  "observacoes": "Com Rolete",
+  "marcas": [
+    "Iveco"
+  ],
+  "slug": "lusar-805"
+}

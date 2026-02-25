@@ -1,0 +1,31 @@
+{
+  "codigo": "LUSAR 900R",
+  "nome": "Sapata de Freio LUSAR 900R",
+  "marca_caminhao": "Agrale, Ford, Iveco, Volkswagen, Volvo",
+  "categoria": "Sapata de Freio Pesada",
+  "tipo": "ar",
+  "descricao": "Sapata de Freio LUSAR 900R desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "Consultar catálogo técnico",
+    "Medidas do Freio": "15\" X 6\"",
+    "Tipo de Sistema": "Freio a ar",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-900r/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Ford F-12.000, C-1215 (98/...) Ford C-1617, C-1618, C-1622, C-1630, C-1722, C-2422, C-4030, C-3224 (98/...) (Ônibus) 1618 C (98/...)",
+    "Volkswagen 11 - 35 ton (91/...) (Ônibus) 16.180 C (91/...) Agrale Saturno 13 ton Iveco Eurocargo 15 ton, Iveco Eurocargo 20-23 ton, Iveco Eurocargo 6 x 2 e Cavalino Volvo VM 23 e 43 ton (lona VV/308)",
+    "3° eixo KLL"
+  ],
+  "observacoes": "Com Rolete",
+  "marcas": [
+    "Agrale",
+    "Ford",
+    "Iveco",
+    "Volkswagen",
+    "Volvo"
+  ],
+  "slug": "lusar-900r"
+}

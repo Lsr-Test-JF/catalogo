@@ -1,0 +1,27 @@
+{
+  "codigo": "LUSAR 500",
+  "nome": "Sapata de Freio LUSAR 500",
+  "marca_caminhao": "Chevrolet, Volkswagen",
+  "categoria": "Sapata de Freio Hidráulica",
+  "tipo": "oleo",
+  "descricao": "Sapata de Freio LUSAR 500 desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "225.8923-SNº Chevrolet GM: 94.626.145Nº Volkswagen: T-11.609.549Lonas: FRAS-LE: VW/257 | LONAFLEX: L-541 | THERMOID: TH-146Medidas do freio: 15” x 5”",
+    "Medidas do Freio": "15” x 5”",
+    "Tipo de Sistema": "Freio a óleo",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-500/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Chevrolet GM A–60, C-60, D-60 (85/...), D-11.000 (85/87), D-12.000 (87/96)",
+    "Volkswagen VW 11.130 (81/...)"
+  ],
+  "observacoes": "Todas as sapatas são fornecidas sem lonas.",
+  "marcas": [
+    "Chevrolet",
+    "Volkswagen"
+  ],
+  "slug": "lusar-500"
+}

@@ -1,0 +1,25 @@
+{
+  "codigo": "LUSAR 343N",
+  "nome": "Sapata de Freio LUSAR 343N",
+  "marca_caminhao": "Mercedes",
+  "categoria": "Sapata de Freio Pesada",
+  "tipo": "ar",
+  "descricao": "Sapata de Freio LUSAR 343N desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "Consultar catálogo técnico",
+    "Medidas do Freio": "300 mm x 120 mm",
+    "Tipo de Sistema": "Freio a ar",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-343n/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Mercedes Benz MBB 912, 914"
+  ],
+  "observacoes": "Todas as sapatas são fornecidas sem lonas.",
+  "marcas": [
+    "Mercedes"
+  ],
+  "slug": "lusar-343n"
+}

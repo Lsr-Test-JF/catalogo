@@ -1,0 +1,25 @@
+{
+  "codigo": "LUSAR 662R",
+  "nome": "Sapata de Freio LUSAR 662R",
+  "marca_caminhao": "Universal",
+  "categoria": "Sapata de Freio Pesada",
+  "tipo": "ar",
+  "descricao": "Sapata de Freio LUSAR 662R desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "2511.00014.8",
+    "Medidas do Freio": "Consultar catálogo técnico",
+    "Tipo de Sistema": "Freio a ar",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-662r/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Master (89/...)"
+  ],
+  "observacoes": "Com Rolete",
+  "marcas": [
+    "Universal"
+  ],
+  "slug": "lusar-662r"
+}

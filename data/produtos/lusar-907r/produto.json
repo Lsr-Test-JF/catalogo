@@ -1,0 +1,34 @@
+{
+  "codigo": "LUSAR 907R",
+  "nome": "Sapata de Freio LUSAR 907R",
+  "marca_caminhao": "Agrale, Chevrolet, Ford, Volkswagen",
+  "categoria": "Sapata de Freio Pesada",
+  "tipo": "ar",
+  "descricao": "Sapata de Freio LUSAR 907R desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "FM113 3222 FM109",
+    "Medidas do Freio": "325mm X 120mm",
+    "Tipo de Sistema": "Freio a ar",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-907r/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Ford 7-8 ton",
+    "Volkswagen VW 8-120 Worker, 8-150 Worker, 8-150 Delivery Plus, 9-150 Delivery, 9-150 E Worker - Tipo Master (04/...), VW 8-120 EOD,",
+    "9-150 EOD - Tipo Master (06/...), VW 8-120 OD, VW 8-150 OD, VW 9-150 OD - Tipo Master (03/...)",
+    "Agrale MA 8.5 TCA, MA 8.5 Super, MA 8.5 Super E - Tipo Master (02/...), MA 9.2, Agrale 9200 - Tipo Master (03/...)",
+    "SAPATAS DE FREIO A ÓLEOSAPATAS DE FREIO A ÓLEO",
+    "SAPATAS DE FREIO A ÓLEO",
+    "SAPATAS DE FREIO A ÓLEO"
+  ],
+  "observacoes": "Com Rolete",
+  "marcas": [
+    "Agrale",
+    "Chevrolet",
+    "Ford",
+    "Volkswagen"
+  ],
+  "slug": "lusar-907r"
+}

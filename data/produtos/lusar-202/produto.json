@@ -1,0 +1,25 @@
+{
+  "codigo": "LUSAR 202",
+  "nome": "Sapata de Freio LUSAR 202",
+  "marca_caminhao": "Ford",
+  "categoria": "Sapata de Freio Hidráulica",
+  "tipo": "oleo",
+  "descricao": "Sapata de Freio LUSAR 202 desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "225.0045-S / BEOY 2020BNº Ford: TCAA 2218",
+    "Medidas do Freio": "13” x 2 ½”",
+    "Tipo de Sistema": "Freio a óleo",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-202/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Ford F-350, F-400, F-4000 (71/...)"
+  ],
+  "observacoes": "Todas as sapatas são fornecidas sem lonas.",
+  "marcas": [
+    "Ford"
+  ],
+  "slug": "lusar-202"
+}

@@ -1,0 +1,27 @@
+{
+  "codigo": "LUSAR 906R",
+  "nome": "Sapata de Freio LUSAR 906R",
+  "marca_caminhao": "Ford, Volkswagen",
+  "categoria": "Sapata de Freio Pesada",
+  "tipo": "ar",
+  "descricao": "Sapata de Freio LUSAR 906R desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "FM110 3222 FM108",
+    "Medidas do Freio": "325mm X 100mm",
+    "Tipo de Sistema": "Freio a ar",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-906r/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Ford 815 - Tipo Master (04/...)",
+    "Volkswagen VW 7-110, 8-120, 8-120 EOD, 8-150, 9-150, 9-150 Delivery (03/...), VW 8-120 Worker, 8-150 Worker, 8-150 Delivery Plus, 9-150 E Worker (04/...), VW 8-150 (05/...), VW 8-150 OD (03/...), VW 9-150 OD (O4/...)"
+  ],
+  "observacoes": "Com Rolete",
+  "marcas": [
+    "Ford",
+    "Volkswagen"
+  ],
+  "slug": "lusar-906r"
+}

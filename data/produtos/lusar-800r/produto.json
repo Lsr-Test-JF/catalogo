@@ -1,0 +1,25 @@
+{
+  "codigo": "LUSAR 800R",
+  "nome": "Sapata de Freio LUSAR 800R",
+  "marca_caminhao": "Universal",
+  "categoria": "Sapata de Freio Pesada",
+  "tipo": "ar",
+  "descricao": "Sapata de Freio LUSAR 800R desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "225.8194 / A3222FM64Lonas: FRAS-LE: CA/32 | LONAFLEX: L-638 | THERMOID: TH-4516",
+    "Medidas do Freio": "Consultar catálogo técnico",
+    "Tipo de Sistema": "Freio a ar",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-800r/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Bêndix Troca Rápida (90/...)"
+  ],
+  "observacoes": "Todas as sapatas são fornecidas sem lonas.",
+  "marcas": [
+    "Universal"
+  ],
+  "slug": "lusar-800r"
+}

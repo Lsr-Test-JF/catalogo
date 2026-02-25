@@ -1,0 +1,25 @@
+{
+  "codigo": "LUSAR 913",
+  "nome": "Sapata de Freio LUSAR 913",
+  "marca_caminhao": "Volvo",
+  "categoria": "Sapata de Freio Pesada",
+  "tipo": "ar",
+  "descricao": "Sapata de Freio LUSAR 913 desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "68371526 / 3.095.196Lonas: FRAS-LE: VV/304 | LONAFLEX: L-734 | THERMOID: TH-207Medidas do freio: 410 mm x 200 mm",
+    "Medidas do Freio": "410 mm x 200 mm",
+    "Tipo de Sistema": "Freio a ar",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-913/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Volvo FH, NH e FM12"
+  ],
+  "observacoes": "Traseira Primária",
+  "marcas": [
+    "Volvo"
+  ],
+  "slug": "lusar-913"
+}

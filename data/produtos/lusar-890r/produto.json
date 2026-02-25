@@ -1,0 +1,25 @@
+{
+  "codigo": "LUSAR 890R",
+  "nome": "Sapata de Freio LUSAR 890R",
+  "marca_caminhao": "Universal",
+  "categoria": "Sapata de Freio Pesada",
+  "tipo": "ar",
+  "descricao": "Sapata de Freio LUSAR 890R desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "1270.2801-56",
+    "Medidas do Freio": "Consultar catálogo técnico",
+    "Tipo de Sistema": "Freio a ar",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-890r/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Guerra 8 1/2\" Charger 95"
+  ],
+  "observacoes": "Com Rolete",
+  "marcas": [
+    "Universal"
+  ],
+  "slug": "lusar-890r"
+}

@@ -1,0 +1,25 @@
+{
+  "codigo": "LUSAR 914",
+  "nome": "Sapata de Freio LUSAR 914",
+  "marca_caminhao": "Universal",
+  "categoria": "Sapata de Freio Pesada",
+  "tipo": "ar",
+  "descricao": "Sapata de Freio LUSAR 914 desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "225.1717 / A3222FM162Lonas: FRAS-LE: 4514-F | LONAFLEX: L-136A | THERMOID: TH-4514",
+    "Medidas do Freio": "Consultar catálogo técnico",
+    "Tipo de Sistema": "Freio a ar",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-914/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Bêndix Antiga (.../90)"
+  ],
+  "observacoes": "Todas as sapatas são fornecidas sem lonas.",
+  "marcas": [
+    "Universal"
+  ],
+  "slug": "lusar-914"
+}

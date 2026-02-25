@@ -1,16 +1,48 @@
 const DATA_URL = 'data/products.json';
+const FOLDER_INDEX_URL = 'data/produtos/index.json';
+const FALLBACK_IMAGE = 'assets/images/products/placeholder.svg';
+
+async function fetchJson(url) {
+  const response = await fetch(url, { cache: 'no-store' });
+  if (!response.ok) throw new Error(`Falha ao carregar ${url}`);
+  return response.json();
+}
+
+function normalizeProduct(product = {}) {
+  return {
+    ...product,
+    marcas: Array.isArray(product.marcas) && product.marcas.length
+      ? product.marcas
+      : [product.marca_caminhao || 'Universal'],
+    imagens: Array.isArray(product.imagens) && product.imagens.length
+      ? product.imagens
+      : [FALLBACK_IMAGE],
+    aplicacoes: Array.isArray(product.aplicacoes) ? product.aplicacoes : []
+  };
+}
+
+async function loadProductsFromFolders() {
+  const index = await fetchJson(FOLDER_INDEX_URL);
+  const entries = Array.isArray(index) ? index : [];
+
+  const products = await Promise.all(entries.map(async (entry) => {
+    const product = await fetchJson(entry.path);
+    return normalizeProduct(product);
+  }));
+
+  return products;
+}
 
 export async function loadProducts() {
-  const response = await fetch(DATA_URL, { cache: 'no-store' });
-  if (!response.ok) throw new Error('Falha ao carregar catálogo.');
+  try {
+    const products = await loadProductsFromFolders();
+    if (products.length) return products;
+  } catch {
+    // fallback para formato legado em data/products.json
+  }
 
-  const data = await response.json();
-  return data.map((product) => ({
-    ...product,
-    marcas: Array.isArray(product.marcas) && product.marcas.length ? product.marcas : [product.marca_caminhao || 'Universal'],
-    imagens: Array.isArray(product.imagens) && product.imagens.length ? product.imagens : ['assets/images/products/placeholder.svg'],
-    aplicacoes: Array.isArray(product.aplicacoes) ? product.aplicacoes : []
-  }));
+  const legacyData = await fetchJson(DATA_URL);
+  return legacyData.map(normalizeProduct);
 }
 
 export function slug(value = '') {
@@ -34,7 +66,7 @@ export function productCard(product) {
 
   return `
     <article class="product-card" tabindex="0" aria-label="${escapeHtml(product.nome)}">
-      <img class="product-thumb" loading="lazy" src="${escapeHtml(image)}" alt="${escapeHtml(product.nome)}" />
+      <img class="product-thumb" loading="lazy" src="${escapeHtml(image)}" alt="${escapeHtml(product.nome)}" onerror="this.onerror=null;this.src='${FALLBACK_IMAGE}'" />
       <div class="product-content">
         <strong>${escapeHtml(product.codigo)}</strong>
         <h3>${escapeHtml(product.nome)}</h3>

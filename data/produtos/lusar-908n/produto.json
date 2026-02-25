@@ -1,0 +1,25 @@
+{
+  "codigo": "LUSAR 908N",
+  "nome": "Sapata de Freio LUSAR 908N",
+  "marca_caminhao": "Iveco",
+  "categoria": "Sapata de Freio Pesada",
+  "tipo": "ar",
+  "descricao": "Sapata de Freio LUSAR 908N desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "Consultar catálogo técnico",
+    "Medidas do Freio": "325mm x 100mm",
+    "Tipo de Sistema": "Freio a ar",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-908n/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Iveco Nova Daily 70C16 HD Motor Euro 3 (08/11), Ônibus Escolar City Class 70C16 HD Motor Euro 3 (08/11), Nova Daily 70C17 HD Motor Euro 5 (12/...), Ônibus Escolar City Class 70C17 HD Motor Euro 5 (12/17)"
+  ],
+  "observacoes": "Todas as sapatas são fornecidas sem lonas.",
+  "marcas": [
+    "Iveco"
+  ],
+  "slug": "lusar-908n"
+}

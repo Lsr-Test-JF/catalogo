@@ -1,0 +1,39 @@
+{
+  "codigo": "LUSAR 902R",
+  "nome": "Sapata de Freio LUSAR 902R",
+  "marca_caminhao": "Agrale, Chevrolet, Ford, Iveco, Volkswagen, Volvo",
+  "categoria": "Sapata de Freio Pesada",
+  "tipo": "ar",
+  "descricao": "Sapata de Freio LUSAR 902R desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "A3222A2159 Nº Volkswagen: 2TJ.607.525 Nº Ford: 2TJ.607.525",
+    "Medidas do Freio": "15\" X 8 5/8\" QP",
+    "Tipo de Sistema": "Freio a ar",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-902r/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Ford (Ônibus) B 1621 (98/...)",
+    "Volkswagen (Ônibus) 16.210 CO (98/...)",
+    "Agrale (Ônibus) MA e MT 15 ton",
+    "Iveco (Ônibus) CC 170 E22 e CC 118 E22",
+    "Volvo VM 17 ton lixo (lona VV/307)",
+    "3° eixo KLL e Carreta em Geral",
+    "N° Original:Lonas: FRAS-LE: FD/83",
+    "LONAFLEX: L-728",
+    "THERMOID: TH-150Medidas do freio: 15” X 4”Freio AR",
+    "Aplicação:"
+  ],
+  "observacoes": "Com Rolete",
+  "marcas": [
+    "Agrale",
+    "Chevrolet",
+    "Ford",
+    "Iveco",
+    "Volkswagen",
+    "Volvo"
+  ],
+  "slug": "lusar-902r"
+}

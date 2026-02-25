@@ -1,0 +1,25 @@
+{
+  "codigo": "LUSAR 437",
+  "nome": "Sapata de Freio LUSAR 437",
+  "marca_caminhao": "Universal",
+  "categoria": "Sapata de Freio Hidráulica",
+  "tipo": "oleo",
+  "descricao": "Sapata de Freio LUSAR 437 desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "Consultar catálogo técnico",
+    "Medidas do Freio": "305 mm x 55 mm",
+    "Tipo de Sistema": "Freio a óleo",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-437/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Jeep, Perua e Pick-up (67/...)"
+  ],
+  "observacoes": "Todas as sapatas são fornecidas sem lonas.",
+  "marcas": [
+    "Universal"
+  ],
+  "slug": "lusar-437"
+}
