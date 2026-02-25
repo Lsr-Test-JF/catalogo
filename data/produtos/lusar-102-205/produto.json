@@ -1,0 +1,26 @@
+{
+  "codigo": "LUSAR 102/205",
+  "nome": "Sapata de Freio LUSAR 102/205",
+  "marca_caminhao": "Chevrolet, Ford",
+  "categoria": "Sapata de Freio Hidráulica",
+  "tipo": "oleo",
+  "descricao": "Sapata de Freio LUSAR 102/205 desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "225.7586-S Nº Chevrolet GM: 94.631.377 Nº Ford: BC6T2220 Lonas: FRAS-LE: FD/75 | LONAFLEX: L-524 | THERMOID: TH-92 / 112Medidas do freio: 15” x 5”",
+    "Medidas do Freio": "15” x 5”",
+    "Tipo de Sistema": "Freio a óleo",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-102-205/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Chevrolet GM A–60, C-60, D-60 (72/79) Ford F-600, F-7000, F-11000 (72/...)"
+  ],
+  "observacoes": "Todas as sapatas são fornecidas sem lonas.",
+  "marcas": [
+    "Chevrolet",
+    "Ford"
+  ],
+  "slug": "lusar-102-205"
+}

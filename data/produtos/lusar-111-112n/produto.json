@@ -1,0 +1,27 @@
+{
+  "codigo": "LUSAR 111/112N",
+  "nome": "Sapata de Freio LUSAR 111/112N",
+  "marca_caminhao": "Chevrolet, Ford",
+  "categoria": "Sapata de Freio Hidráulica",
+  "tipo": "oleo",
+  "descricao": "Sapata de Freio LUSAR 111/112N desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "Consultar catálogo técnico",
+    "Medidas do Freio": "305 mm x 63 mm",
+    "Tipo de Sistema": "Freio a óleo",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-111-112n/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Chevrolet GM A/C/D-20 (93/...), Silverado (97/...)",
+    "Ford F-1000 (97/...)"
+  ],
+  "observacoes": "Todas as sapatas são fornecidas sem lonas.",
+  "marcas": [
+    "Chevrolet",
+    "Ford"
+  ],
+  "slug": "lusar-111-112n"
+}

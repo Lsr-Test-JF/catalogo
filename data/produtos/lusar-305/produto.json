@@ -1,0 +1,25 @@
+{
+  "codigo": "LUSAR 305",
+  "nome": "Sapata de Freio LUSAR 305",
+  "marca_caminhao": "Mercedes",
+  "categoria": "Sapata de Freio Pesada",
+  "tipo": "ar",
+  "descricao": "Sapata de Freio LUSAR 305 desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "Consultar catálogo técnico",
+    "Medidas do Freio": "410 mm x 220 mm",
+    "Tipo de Sistema": "Freio a ar",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-305/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Mercedes Benz MBB OF-1618, 1620, 1721 (93/...) , OH-1625L, 1635L, 1636L (93/...) , 2038, 2240 (93/...) , AXOR"
+  ],
+  "observacoes": "Com Rolete",
+  "marcas": [
+    "Mercedes"
+  ],
+  "slug": "lusar-305"
+}

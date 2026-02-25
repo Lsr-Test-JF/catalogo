@@ -1,0 +1,25 @@
+{
+  "codigo": "LUSAR 307N",
+  "nome": "Sapata de Freio LUSAR 307N",
+  "marca_caminhao": "Mercedes",
+  "categoria": "Sapata de Freio Pesada",
+  "tipo": "ar",
+  "descricao": "Sapata de Freio LUSAR 307N desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "Consultar catálogo técnico",
+    "Medidas do Freio": "410 mm x 160 mm",
+    "Tipo de Sistema": "Freio a ar",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-307n/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Mercedes Benz MBB  L-1614, 1618, 1625, 1630 (83/...) , LK-1614, 1618 (83/...) , OH-1420 (83/...) , L/LS-1924, 1924-A, 1929, 2624 (83/...) , LS-1930, 1932, 1933, 1934, 1935, 1941 (83/...) ,  LK–1313 (eixo HL5) (83/...) , OH-1313, 1314, 1315, 1316 (83/...) , L-1319 (83/...) , L/LK-1513, 1514, 1516, 1517, 1518, 1614, 1618, 1621 (83/...) , OH-1419, 1420, 1517, 1518, 1618 (83/...) , L/LK/LS-1519, 1520 (83/...) , LS-1524, 1525, 1630 (83/...)"
+  ],
+  "observacoes": "Com Rolete",
+  "marcas": [
+    "Mercedes"
+  ],
+  "slug": "lusar-307n"
+}

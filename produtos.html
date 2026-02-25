@@ -4,57 +4,73 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Produtos | LUSAR Catálogo</title>
-    <meta name="description" content="Lista completa de sapatas de freio para caminhões e ônibus, com filtros combináveis e paginação automática." />
+    <meta name="description" content="Lista completa de produtos LUSAR com filtros combináveis e visual moderno." />
     <link rel="stylesheet" href="assets/css/styles.css" />
   </head>
-  <body>
+  <body class="catalog-page">
+    <div class="top-strip" aria-hidden="true"></div>
+
     <header class="site-header">
       <div class="container nav">
-        <a class="brand" href="index.html">LUSAR Catálogo</a>
+        <a class="brand" href="index.html">LUSAR</a>
         <nav aria-label="Navegação principal">
           <a href="index.html">Início</a>
-          <a href="produtos.html" class="active">Produtos</a>
+          <a href="produtos.html" class="active" aria-current="page">Produtos</a>
         </nav>
       </div>
     </header>
 
-    <main class="container section">
-      <div class="section-head">
-        <h1>Catálogo de Produtos</h1>
-        <p class="muted">Filtros instantâneos por marca, categoria, tipo e busca textual.</p>
+    <section class="page-banner" aria-label="Título da página">
+      <div class="container">
+        <h1>PRODUTOS</h1>
       </div>
+    </section>
 
-      <section class="filters" aria-label="Filtros de produtos">
-        <label>
-          Busca
-          <input id="search" type="search" placeholder="Código ou nome" autocomplete="off" />
-        </label>
-        <label>
-          Marca
-          <select id="brandFilter"><option value="">Todas</option></select>
-        </label>
-        <label>
-          Categoria
-          <select id="categoryFilter"><option value="">Todas</option></select>
-        </label>
-        <label>
-          Tipo
-          <select id="typeFilter">
-            <option value="">Todos</option>
-            <option value="ar">Ar</option>
-            <option value="oleo">Óleo</option>
-          </select>
-        </label>
+    <main class="container section catalog-layout">
+      <aside class="catalog-sidebar" aria-label="Ações rápidas">
+        <h2>CATÁLOGO</h2>
+        <a class="sidebar-btn" href="index.html">Página inicial</a>
+        <a class="sidebar-btn active" href="produtos.html">Todos os produtos</a>
+        <a class="sidebar-btn" href="mailto:vendas@lusar.com.br">Fale com vendas</a>
+      </aside>
+
+      <section class="catalog-main">
+        <div class="section-head compact">
+          <p class="muted">Todos os produtos</p>
+        </div>
+
+        <section class="filters" aria-label="Filtros de produtos">
+          <label>
+            Busca
+            <input id="search" type="search" placeholder="Código ou nome" autocomplete="off" />
+          </label>
+          <label>
+            Marca
+            <select id="brandFilter"><option value="">Todas</option></select>
+          </label>
+          <label>
+            Categoria
+            <select id="categoryFilter"><option value="">Todas</option></select>
+          </label>
+          <label>
+            Tipo
+            <select id="typeFilter">
+              <option value="">Todos</option>
+              <option value="ar">Ar</option>
+              <option value="oleo">Óleo</option>
+            </select>
+          </label>
+        </section>
+
+        <p id="results-meta" class="muted" aria-live="polite"></p>
+        <div id="products-grid" class="grid products-grid products-grid-catalog"></div>
+        <nav id="pagination" class="pagination" aria-label="Paginação"></nav>
       </section>
-
-      <p id="results-meta" class="muted" aria-live="polite"></p>
-      <div id="products-grid" class="grid products-grid"></div>
-      <nav id="pagination" class="pagination" aria-label="Paginação"></nav>
     </main>
 
     <footer class="site-footer">
       <div class="container footer-wrap">
-        <p>Catálogo atualizado automaticamente via <code>/data/products.json</code>.</p>
+        <p>Catálogo atualizado automaticamente.</p>
       </div>
     </footer>
 

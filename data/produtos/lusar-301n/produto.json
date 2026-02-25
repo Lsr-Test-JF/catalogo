@@ -1,0 +1,25 @@
+{
+  "codigo": "LUSAR 301N",
+  "nome": "Sapata de Freio LUSAR 301N",
+  "marca_caminhao": "Mercedes",
+  "categoria": "Sapata de Freio Pesada",
+  "tipo": "ar",
+  "descricao": "Sapata de Freio LUSAR 301N desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "Consultar catálogo técnico",
+    "Medidas do Freio": "410 mm x 140 mm",
+    "Tipo de Sistema": "Freio a ar",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-301n/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Mercedes Benz MBB  OF-1113, 1114, 1115, 1414, 1418, 1315 (84/...) , L/LK/LS/OF-1313, 1314 (84/...) , L/LS-1313-A (84/...) , L/LK-1316, 1317, 1414, 1418 (84/...) , L/LK/OF-1318 (84/...) , L-2013, 2014 (84/...) , L/LB/LK-2213, 2214, 2215, 2216, 2217, 2219 (84/...) , LK-1313 (eixo HL5) (84/...) , OH-1313, 1314, 1315, 1316 (84/...) , L-1319 (84/...) , L/LK-1513, 1514, 1516, 1517, 1518, 1614, 1618, 1621 (84/...) , OH-1419, 1420, 1517, 1518, 1618 (84/...) , L/LK/LS-1519, 1520 (84/...) , LS-1524, 1525,"
+  ],
+  "observacoes": "Com Rolete",
+  "marcas": [
+    "Mercedes"
+  ],
+  "slug": "lusar-301n"
+}

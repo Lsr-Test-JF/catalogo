@@ -1,0 +1,30 @@
+{
+  "codigo": "LUSAR 862R",
+  "nome": "Sapata de Freio LUSAR 862R",
+  "marca_caminhao": "Iveco, Mercedes, Volvo",
+  "categoria": "Sapata de Freio Pesada",
+  "tipo": "ar",
+  "descricao": "Sapata de Freio LUSAR 862R desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "A3222FM61",
+    "Medidas do Freio": "Consultar catálogo técnico",
+    "Tipo de Sistema": "Freio a ar",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-862r/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Trucks e Carretas Randon (99/...) , Guerra Q-Plus (95/...)",
+    "Mercedes Benz MBB 1938 (adaptação) ,  3º 1935, 1938 (original pneumático)",
+    "Volvo 3º FH12, NH12",
+    "Iveco 3º Stralis 6 x 2"
+  ],
+  "observacoes": "Com Rolete",
+  "marcas": [
+    "Iveco",
+    "Mercedes",
+    "Volvo"
+  ],
+  "slug": "lusar-862r"
+}

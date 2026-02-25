@@ -1,0 +1,25 @@
+{
+  "codigo": "LUSAR 303N",
+  "nome": "Sapata de Freio LUSAR 303N",
+  "marca_caminhao": "Mercedes",
+  "categoria": "Sapata de Freio Pesada",
+  "tipo": "ar",
+  "descricao": "Sapata de Freio LUSAR 303N desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "Consultar catálogo técnico",
+    "Medidas do Freio": "410 mm x 180 mm",
+    "Tipo de Sistema": "Freio a ar",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-303n/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Mercedes Benz MBB  OF-1318 (76/...) , L-1924A, 2635 (76/...) , LS-1924, 1929, 1930, 1932, 1933, 1934, 1935, 1941, 2038, 2624, 2635 (76/...) , OH-1417, 1621 (76/...)"
+  ],
+  "observacoes": "Com Rolete",
+  "marcas": [
+    "Mercedes"
+  ],
+  "slug": "lusar-303n"
+}

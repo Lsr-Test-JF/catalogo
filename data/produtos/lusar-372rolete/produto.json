@@ -1,0 +1,25 @@
+{
+  "codigo": "LUSAR 372ROLETE",
+  "nome": "Sapata de Freio LUSAR 372ROLETE",
+  "marca_caminhao": "Universal",
+  "categoria": "Sapata de Freio Pesada",
+  "tipo": "ar",
+  "descricao": "Sapata de Freio LUSAR 372ROLETE desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "Consultar catálogo técnico",
+    "Medidas do Freio": "Consultar catálogo técnico",
+    "Tipo de Sistema": "Freio a ar",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-372rolete/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Consulte equipe técnica para aplicações compatíveis."
+  ],
+  "observacoes": "Todas as sapatas são fornecidas sem lonas.",
+  "marcas": [
+    "Universal"
+  ],
+  "slug": "lusar-372rolete"
+}

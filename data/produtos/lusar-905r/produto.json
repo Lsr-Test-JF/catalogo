@@ -1,0 +1,33 @@
+{
+  "codigo": "LUSAR 905R",
+  "nome": "Sapata de Freio LUSAR 905R",
+  "marca_caminhao": "Agrale, Ford, Mercedes, Volare, Volkswagen",
+  "categoria": "Sapata de Freio Pesada",
+  "tipo": "ar",
+  "descricao": "Sapata de Freio LUSAR 905R desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "Consultar catálogo técnico",
+    "Medidas do Freio": "320mm X 100mm",
+    "Tipo de Sistema": "Freio a ar",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-905r/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Ford 8 ton (mecânico)",
+    "Volkswagen VW 7.110, VW 8.140 - Caminhões e Ônibus Tipo Master (93/...)",
+    "Agrale 7 e 8 ton - Caminhões e Ônibus",
+    "Volare V8",
+    "Mercedes Benz MBB 6-9 ton (adaptação hidráulico), 710 Plus (Original), Ônibus LO 712/812 MO (Original)"
+  ],
+  "observacoes": "Com Rolete",
+  "marcas": [
+    "Agrale",
+    "Ford",
+    "Mercedes",
+    "Volare",
+    "Volkswagen"
+  ],
+  "slug": "lusar-905r"
+}

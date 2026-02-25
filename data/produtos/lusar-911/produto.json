@@ -1,0 +1,25 @@
+{
+  "codigo": "LUSAR 911",
+  "nome": "Sapata de Freio LUSAR 911",
+  "marca_caminhao": "Volvo",
+  "categoria": "Sapata de Freio Pesada",
+  "tipo": "ar",
+  "descricao": "Sapata de Freio LUSAR 911 desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "68371525 / 3.095.195Lonas: FRAS-LE: VV/303 | LONAFLEX: L-733 | THERMOID: TH-206Medidas do freio: 410 mm x 175 mm",
+    "Medidas do Freio": "410 mm x 175 mm",
+    "Tipo de Sistema": "Freio a ar",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-911/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Volvo dianteiro secundária FH, NH e FM12"
+  ],
+  "observacoes": "Dianteira Secundária",
+  "marcas": [
+    "Volvo"
+  ],
+  "slug": "lusar-911"
+}

@@ -1,0 +1,1152 @@
+[
+  {
+    "codigo": "LUSAR 100/201",
+    "slug": "lusar-100-201",
+    "path": "data/produtos/lusar-100-201/produto.json"
+  },
+  {
+    "codigo": "LUSAR 1001",
+    "slug": "lusar-1001",
+    "path": "data/produtos/lusar-1001/produto.json"
+  },
+  {
+    "codigo": "LUSAR 1001N",
+    "slug": "lusar-1001n",
+    "path": "data/produtos/lusar-1001n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 102/205",
+    "slug": "lusar-102-205",
+    "path": "data/produtos/lusar-102-205/produto.json"
+  },
+  {
+    "codigo": "LUSAR 104/207",
+    "slug": "lusar-104-207",
+    "path": "data/produtos/lusar-104-207/produto.json"
+  },
+  {
+    "codigo": "LUSAR 107/208",
+    "slug": "lusar-107-208",
+    "path": "data/produtos/lusar-107-208/produto.json"
+  },
+  {
+    "codigo": "LUSAR 110/113",
+    "slug": "lusar-110-113",
+    "path": "data/produtos/lusar-110-113/produto.json"
+  },
+  {
+    "codigo": "LUSAR 110/113N",
+    "slug": "lusar-110-113n",
+    "path": "data/produtos/lusar-110-113n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 111/112",
+    "slug": "lusar-111-112",
+    "path": "data/produtos/lusar-111-112/produto.json"
+  },
+  {
+    "codigo": "LUSAR 111/112N",
+    "slug": "lusar-111-112n",
+    "path": "data/produtos/lusar-111-112n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 202",
+    "slug": "lusar-202",
+    "path": "data/produtos/lusar-202/produto.json"
+  },
+  {
+    "codigo": "LUSAR 203/204",
+    "slug": "lusar-203-204",
+    "path": "data/produtos/lusar-203-204/produto.json"
+  },
+  {
+    "codigo": "LUSAR 209/212",
+    "slug": "lusar-209-212",
+    "path": "data/produtos/lusar-209-212/produto.json"
+  },
+  {
+    "codigo": "LUSAR 209/212N",
+    "slug": "lusar-209-212n",
+    "path": "data/produtos/lusar-209-212n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 210/211",
+    "slug": "lusar-210-211",
+    "path": "data/produtos/lusar-210-211/produto.json"
+  },
+  {
+    "codigo": "LUSAR 210/211N",
+    "slug": "lusar-210-211n",
+    "path": "data/produtos/lusar-210-211n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 2107",
+    "slug": "lusar-2107",
+    "path": "data/produtos/lusar-2107/produto.json"
+  },
+  {
+    "codigo": "LUSAR 2107C",
+    "slug": "lusar-2107c",
+    "path": "data/produtos/lusar-2107c/produto.json"
+  },
+  {
+    "codigo": "LUSAR 2107K",
+    "slug": "lusar-2107k",
+    "path": "data/produtos/lusar-2107k/produto.json"
+  },
+  {
+    "codigo": "LUSAR 2107P",
+    "slug": "lusar-2107p",
+    "path": "data/produtos/lusar-2107p/produto.json"
+  },
+  {
+    "codigo": "LUSAR 300",
+    "slug": "lusar-300",
+    "path": "data/produtos/lusar-300/produto.json"
+  },
+  {
+    "codigo": "LUSAR 300N",
+    "slug": "lusar-300n",
+    "path": "data/produtos/lusar-300n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 301",
+    "slug": "lusar-301",
+    "path": "data/produtos/lusar-301/produto.json"
+  },
+  {
+    "codigo": "LUSAR 301N",
+    "slug": "lusar-301n",
+    "path": "data/produtos/lusar-301n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 302",
+    "slug": "lusar-302",
+    "path": "data/produtos/lusar-302/produto.json"
+  },
+  {
+    "codigo": "LUSAR 302N",
+    "slug": "lusar-302n",
+    "path": "data/produtos/lusar-302n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 303",
+    "slug": "lusar-303",
+    "path": "data/produtos/lusar-303/produto.json"
+  },
+  {
+    "codigo": "LUSAR 303N",
+    "slug": "lusar-303n",
+    "path": "data/produtos/lusar-303n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 304",
+    "slug": "lusar-304",
+    "path": "data/produtos/lusar-304/produto.json"
+  },
+  {
+    "codigo": "LUSAR 304N",
+    "slug": "lusar-304n",
+    "path": "data/produtos/lusar-304n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 305",
+    "slug": "lusar-305",
+    "path": "data/produtos/lusar-305/produto.json"
+  },
+  {
+    "codigo": "LUSAR 305N",
+    "slug": "lusar-305n",
+    "path": "data/produtos/lusar-305n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 306",
+    "slug": "lusar-306",
+    "path": "data/produtos/lusar-306/produto.json"
+  },
+  {
+    "codigo": "LUSAR 306N",
+    "slug": "lusar-306n",
+    "path": "data/produtos/lusar-306n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 307",
+    "slug": "lusar-307",
+    "path": "data/produtos/lusar-307/produto.json"
+  },
+  {
+    "codigo": "LUSAR 307N",
+    "slug": "lusar-307n",
+    "path": "data/produtos/lusar-307n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 310",
+    "slug": "lusar-310",
+    "path": "data/produtos/lusar-310/produto.json"
+  },
+  {
+    "codigo": "LUSAR 310R",
+    "slug": "lusar-310r",
+    "path": "data/produtos/lusar-310r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 311",
+    "slug": "lusar-311",
+    "path": "data/produtos/lusar-311/produto.json"
+  },
+  {
+    "codigo": "LUSAR 311K",
+    "slug": "lusar-311k",
+    "path": "data/produtos/lusar-311k/produto.json"
+  },
+  {
+    "codigo": "LUSAR 311P",
+    "slug": "lusar-311p",
+    "path": "data/produtos/lusar-311p/produto.json"
+  },
+  {
+    "codigo": "LUSAR 312",
+    "slug": "lusar-312",
+    "path": "data/produtos/lusar-312/produto.json"
+  },
+  {
+    "codigo": "LUSAR 312A",
+    "slug": "lusar-312a",
+    "path": "data/produtos/lusar-312a/produto.json"
+  },
+  {
+    "codigo": "LUSAR 312K",
+    "slug": "lusar-312k",
+    "path": "data/produtos/lusar-312k/produto.json"
+  },
+  {
+    "codigo": "LUSAR 313",
+    "slug": "lusar-313",
+    "path": "data/produtos/lusar-313/produto.json"
+  },
+  {
+    "codigo": "LUSAR 313K",
+    "slug": "lusar-313k",
+    "path": "data/produtos/lusar-313k/produto.json"
+  },
+  {
+    "codigo": "LUSAR 313ROLETE",
+    "slug": "lusar-313rolete",
+    "path": "data/produtos/lusar-313rolete/produto.json"
+  },
+  {
+    "codigo": "LUSAR 315",
+    "slug": "lusar-315",
+    "path": "data/produtos/lusar-315/produto.json"
+  },
+  {
+    "codigo": "LUSAR 315ORING",
+    "slug": "lusar-315oring",
+    "path": "data/produtos/lusar-315oring/produto.json"
+  },
+  {
+    "codigo": "LUSAR 315P",
+    "slug": "lusar-315p",
+    "path": "data/produtos/lusar-315p/produto.json"
+  },
+  {
+    "codigo": "LUSAR 316",
+    "slug": "lusar-316",
+    "path": "data/produtos/lusar-316/produto.json"
+  },
+  {
+    "codigo": "LUSAR 316A",
+    "slug": "lusar-316a",
+    "path": "data/produtos/lusar-316a/produto.json"
+  },
+  {
+    "codigo": "LUSAR 317",
+    "slug": "lusar-317",
+    "path": "data/produtos/lusar-317/produto.json"
+  },
+  {
+    "codigo": "LUSAR 317B",
+    "slug": "lusar-317b",
+    "path": "data/produtos/lusar-317b/produto.json"
+  },
+  {
+    "codigo": "LUSAR 318",
+    "slug": "lusar-318",
+    "path": "data/produtos/lusar-318/produto.json"
+  },
+  {
+    "codigo": "LUSAR 318ORING",
+    "slug": "lusar-318oring",
+    "path": "data/produtos/lusar-318oring/produto.json"
+  },
+  {
+    "codigo": "LUSAR 319",
+    "slug": "lusar-319",
+    "path": "data/produtos/lusar-319/produto.json"
+  },
+  {
+    "codigo": "LUSAR 319A",
+    "slug": "lusar-319a",
+    "path": "data/produtos/lusar-319a/produto.json"
+  },
+  {
+    "codigo": "LUSAR 319R",
+    "slug": "lusar-319r",
+    "path": "data/produtos/lusar-319r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 341",
+    "slug": "lusar-341",
+    "path": "data/produtos/lusar-341/produto.json"
+  },
+  {
+    "codigo": "LUSAR 341N",
+    "slug": "lusar-341n",
+    "path": "data/produtos/lusar-341n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 342",
+    "slug": "lusar-342",
+    "path": "data/produtos/lusar-342/produto.json"
+  },
+  {
+    "codigo": "LUSAR 342N",
+    "slug": "lusar-342n",
+    "path": "data/produtos/lusar-342n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 343",
+    "slug": "lusar-343",
+    "path": "data/produtos/lusar-343/produto.json"
+  },
+  {
+    "codigo": "LUSAR 343N",
+    "slug": "lusar-343n",
+    "path": "data/produtos/lusar-343n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 344",
+    "slug": "lusar-344",
+    "path": "data/produtos/lusar-344/produto.json"
+  },
+  {
+    "codigo": "LUSAR 344N",
+    "slug": "lusar-344n",
+    "path": "data/produtos/lusar-344n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 345",
+    "slug": "lusar-345",
+    "path": "data/produtos/lusar-345/produto.json"
+  },
+  {
+    "codigo": "LUSAR 345N",
+    "slug": "lusar-345n",
+    "path": "data/produtos/lusar-345n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 346",
+    "slug": "lusar-346",
+    "path": "data/produtos/lusar-346/produto.json"
+  },
+  {
+    "codigo": "LUSAR 346N",
+    "slug": "lusar-346n",
+    "path": "data/produtos/lusar-346n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 371",
+    "slug": "lusar-371",
+    "path": "data/produtos/lusar-371/produto.json"
+  },
+  {
+    "codigo": "LUSAR 371K",
+    "slug": "lusar-371k",
+    "path": "data/produtos/lusar-371k/produto.json"
+  },
+  {
+    "codigo": "LUSAR 372",
+    "slug": "lusar-372",
+    "path": "data/produtos/lusar-372/produto.json"
+  },
+  {
+    "codigo": "LUSAR 372K",
+    "slug": "lusar-372k",
+    "path": "data/produtos/lusar-372k/produto.json"
+  },
+  {
+    "codigo": "LUSAR 372ROLETE",
+    "slug": "lusar-372rolete",
+    "path": "data/produtos/lusar-372rolete/produto.json"
+  },
+  {
+    "codigo": "LUSAR 373",
+    "slug": "lusar-373",
+    "path": "data/produtos/lusar-373/produto.json"
+  },
+  {
+    "codigo": "LUSAR 373K",
+    "slug": "lusar-373k",
+    "path": "data/produtos/lusar-373k/produto.json"
+  },
+  {
+    "codigo": "LUSAR 377",
+    "slug": "lusar-377",
+    "path": "data/produtos/lusar-377/produto.json"
+  },
+  {
+    "codigo": "LUSAR 377K",
+    "slug": "lusar-377k",
+    "path": "data/produtos/lusar-377k/produto.json"
+  },
+  {
+    "codigo": "LUSAR 377P",
+    "slug": "lusar-377p",
+    "path": "data/produtos/lusar-377p/produto.json"
+  },
+  {
+    "codigo": "LUSAR 400",
+    "slug": "lusar-400",
+    "path": "data/produtos/lusar-400/produto.json"
+  },
+  {
+    "codigo": "LUSAR 400N",
+    "slug": "lusar-400n",
+    "path": "data/produtos/lusar-400n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 401",
+    "slug": "lusar-401",
+    "path": "data/produtos/lusar-401/produto.json"
+  },
+  {
+    "codigo": "LUSAR 401N",
+    "slug": "lusar-401n",
+    "path": "data/produtos/lusar-401n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 402E",
+    "slug": "lusar-402e",
+    "path": "data/produtos/lusar-402e/produto.json"
+  },
+  {
+    "codigo": "LUSAR 402EN",
+    "slug": "lusar-402en",
+    "path": "data/produtos/lusar-402en/produto.json"
+  },
+  {
+    "codigo": "LUSAR 404E",
+    "slug": "lusar-404e",
+    "path": "data/produtos/lusar-404e/produto.json"
+  },
+  {
+    "codigo": "LUSAR 404EN",
+    "slug": "lusar-404en",
+    "path": "data/produtos/lusar-404en/produto.json"
+  },
+  {
+    "codigo": "LUSAR 406E",
+    "slug": "lusar-406e",
+    "path": "data/produtos/lusar-406e/produto.json"
+  },
+  {
+    "codigo": "LUSAR 406EN",
+    "slug": "lusar-406en",
+    "path": "data/produtos/lusar-406en/produto.json"
+  },
+  {
+    "codigo": "LUSAR 407A",
+    "slug": "lusar-407a",
+    "path": "data/produtos/lusar-407a/produto.json"
+  },
+  {
+    "codigo": "LUSAR 407AN",
+    "slug": "lusar-407an",
+    "path": "data/produtos/lusar-407an/produto.json"
+  },
+  {
+    "codigo": "LUSAR 409",
+    "slug": "lusar-409",
+    "path": "data/produtos/lusar-409/produto.json"
+  },
+  {
+    "codigo": "LUSAR 409N",
+    "slug": "lusar-409n",
+    "path": "data/produtos/lusar-409n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 413",
+    "slug": "lusar-413",
+    "path": "data/produtos/lusar-413/produto.json"
+  },
+  {
+    "codigo": "LUSAR 413B",
+    "slug": "lusar-413b",
+    "path": "data/produtos/lusar-413b/produto.json"
+  },
+  {
+    "codigo": "LUSAR 425",
+    "slug": "lusar-425",
+    "path": "data/produtos/lusar-425/produto.json"
+  },
+  {
+    "codigo": "LUSAR 425B",
+    "slug": "lusar-425b",
+    "path": "data/produtos/lusar-425b/produto.json"
+  },
+  {
+    "codigo": "LUSAR 433",
+    "slug": "lusar-433",
+    "path": "data/produtos/lusar-433/produto.json"
+  },
+  {
+    "codigo": "LUSAR 433B",
+    "slug": "lusar-433b",
+    "path": "data/produtos/lusar-433b/produto.json"
+  },
+  {
+    "codigo": "LUSAR 433P",
+    "slug": "lusar-433p",
+    "path": "data/produtos/lusar-433p/produto.json"
+  },
+  {
+    "codigo": "LUSAR 437",
+    "slug": "lusar-437",
+    "path": "data/produtos/lusar-437/produto.json"
+  },
+  {
+    "codigo": "LUSAR 437K",
+    "slug": "lusar-437k",
+    "path": "data/produtos/lusar-437k/produto.json"
+  },
+  {
+    "codigo": "LUSAR 500",
+    "slug": "lusar-500",
+    "path": "data/produtos/lusar-500/produto.json"
+  },
+  {
+    "codigo": "LUSAR 500/109",
+    "slug": "lusar-500-109",
+    "path": "data/produtos/lusar-500-109/produto.json"
+  },
+  {
+    "codigo": "LUSAR 501",
+    "slug": "lusar-501",
+    "path": "data/produtos/lusar-501/produto.json"
+  },
+  {
+    "codigo": "LUSAR 501/108",
+    "slug": "lusar-501-108",
+    "path": "data/produtos/lusar-501-108/produto.json"
+  },
+  {
+    "codigo": "LUSAR 502",
+    "slug": "lusar-502",
+    "path": "data/produtos/lusar-502/produto.json"
+  },
+  {
+    "codigo": "LUSAR 502N",
+    "slug": "lusar-502n",
+    "path": "data/produtos/lusar-502n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 503",
+    "slug": "lusar-503",
+    "path": "data/produtos/lusar-503/produto.json"
+  },
+  {
+    "codigo": "LUSAR 503N",
+    "slug": "lusar-503n",
+    "path": "data/produtos/lusar-503n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 504",
+    "slug": "lusar-504",
+    "path": "data/produtos/lusar-504/produto.json"
+  },
+  {
+    "codigo": "LUSAR 504N",
+    "slug": "lusar-504n",
+    "path": "data/produtos/lusar-504n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 505",
+    "slug": "lusar-505",
+    "path": "data/produtos/lusar-505/produto.json"
+  },
+  {
+    "codigo": "LUSAR 505N",
+    "slug": "lusar-505n",
+    "path": "data/produtos/lusar-505n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 510",
+    "slug": "lusar-510",
+    "path": "data/produtos/lusar-510/produto.json"
+  },
+  {
+    "codigo": "LUSAR 510R",
+    "slug": "lusar-510r",
+    "path": "data/produtos/lusar-510r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 511",
+    "slug": "lusar-511",
+    "path": "data/produtos/lusar-511/produto.json"
+  },
+  {
+    "codigo": "LUSAR 511P",
+    "slug": "lusar-511p",
+    "path": "data/produtos/lusar-511p/produto.json"
+  },
+  {
+    "codigo": "LUSAR 537",
+    "slug": "lusar-537",
+    "path": "data/produtos/lusar-537/produto.json"
+  },
+  {
+    "codigo": "LUSAR 537K",
+    "slug": "lusar-537k",
+    "path": "data/produtos/lusar-537k/produto.json"
+  },
+  {
+    "codigo": "LUSAR 600",
+    "slug": "lusar-600",
+    "path": "data/produtos/lusar-600/produto.json"
+  },
+  {
+    "codigo": "LUSAR 600R",
+    "slug": "lusar-600r",
+    "path": "data/produtos/lusar-600r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 650",
+    "slug": "lusar-650",
+    "path": "data/produtos/lusar-650/produto.json"
+  },
+  {
+    "codigo": "LUSAR 650R",
+    "slug": "lusar-650r",
+    "path": "data/produtos/lusar-650r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 660",
+    "slug": "lusar-660",
+    "path": "data/produtos/lusar-660/produto.json"
+  },
+  {
+    "codigo": "LUSAR 660R",
+    "slug": "lusar-660r",
+    "path": "data/produtos/lusar-660r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 662",
+    "slug": "lusar-662",
+    "path": "data/produtos/lusar-662/produto.json"
+  },
+  {
+    "codigo": "LUSAR 662R",
+    "slug": "lusar-662r",
+    "path": "data/produtos/lusar-662r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 700",
+    "slug": "lusar-700",
+    "path": "data/produtos/lusar-700/produto.json"
+  },
+  {
+    "codigo": "LUSAR 700R",
+    "slug": "lusar-700r",
+    "path": "data/produtos/lusar-700r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 7200",
+    "slug": "lusar-7200",
+    "path": "data/produtos/lusar-7200/produto.json"
+  },
+  {
+    "codigo": "LUSAR 7200S",
+    "slug": "lusar-7200s",
+    "path": "data/produtos/lusar-7200s/produto.json"
+  },
+  {
+    "codigo": "LUSAR 750",
+    "slug": "lusar-750",
+    "path": "data/produtos/lusar-750/produto.json"
+  },
+  {
+    "codigo": "LUSAR 750R",
+    "slug": "lusar-750r",
+    "path": "data/produtos/lusar-750r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 752",
+    "slug": "lusar-752",
+    "path": "data/produtos/lusar-752/produto.json"
+  },
+  {
+    "codigo": "LUSAR 752R",
+    "slug": "lusar-752r",
+    "path": "data/produtos/lusar-752r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 760",
+    "slug": "lusar-760",
+    "path": "data/produtos/lusar-760/produto.json"
+  },
+  {
+    "codigo": "LUSAR 760R",
+    "slug": "lusar-760r",
+    "path": "data/produtos/lusar-760r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 7900",
+    "slug": "lusar-7900",
+    "path": "data/produtos/lusar-7900/produto.json"
+  },
+  {
+    "codigo": "LUSAR 7900S",
+    "slug": "lusar-7900s",
+    "path": "data/produtos/lusar-7900s/produto.json"
+  },
+  {
+    "codigo": "LUSAR 800",
+    "slug": "lusar-800",
+    "path": "data/produtos/lusar-800/produto.json"
+  },
+  {
+    "codigo": "LUSAR 800R",
+    "slug": "lusar-800r",
+    "path": "data/produtos/lusar-800r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 801",
+    "slug": "lusar-801",
+    "path": "data/produtos/lusar-801/produto.json"
+  },
+  {
+    "codigo": "LUSAR 801R",
+    "slug": "lusar-801r",
+    "path": "data/produtos/lusar-801r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 801T",
+    "slug": "lusar-801t",
+    "path": "data/produtos/lusar-801t/produto.json"
+  },
+  {
+    "codigo": "LUSAR 802",
+    "slug": "lusar-802",
+    "path": "data/produtos/lusar-802/produto.json"
+  },
+  {
+    "codigo": "LUSAR 802P",
+    "slug": "lusar-802p",
+    "path": "data/produtos/lusar-802p/produto.json"
+  },
+  {
+    "codigo": "LUSAR 805",
+    "slug": "lusar-805",
+    "path": "data/produtos/lusar-805/produto.json"
+  },
+  {
+    "codigo": "LUSAR 805A",
+    "slug": "lusar-805a",
+    "path": "data/produtos/lusar-805a/produto.json"
+  },
+  {
+    "codigo": "LUSAR 805P",
+    "slug": "lusar-805p",
+    "path": "data/produtos/lusar-805p/produto.json"
+  },
+  {
+    "codigo": "LUSAR 806",
+    "slug": "lusar-806",
+    "path": "data/produtos/lusar-806/produto.json"
+  },
+  {
+    "codigo": "LUSAR 806M",
+    "slug": "lusar-806m",
+    "path": "data/produtos/lusar-806m/produto.json"
+  },
+  {
+    "codigo": "LUSAR 806P",
+    "slug": "lusar-806p",
+    "path": "data/produtos/lusar-806p/produto.json"
+  },
+  {
+    "codigo": "LUSAR 806R",
+    "slug": "lusar-806r",
+    "path": "data/produtos/lusar-806r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 807",
+    "slug": "lusar-807",
+    "path": "data/produtos/lusar-807/produto.json"
+  },
+  {
+    "codigo": "LUSAR 807A",
+    "slug": "lusar-807a",
+    "path": "data/produtos/lusar-807a/produto.json"
+  },
+  {
+    "codigo": "LUSAR 808",
+    "slug": "lusar-808",
+    "path": "data/produtos/lusar-808/produto.json"
+  },
+  {
+    "codigo": "LUSAR 808M",
+    "slug": "lusar-808m",
+    "path": "data/produtos/lusar-808m/produto.json"
+  },
+  {
+    "codigo": "LUSAR 808P",
+    "slug": "lusar-808p",
+    "path": "data/produtos/lusar-808p/produto.json"
+  },
+  {
+    "codigo": "LUSAR 809",
+    "slug": "lusar-809",
+    "path": "data/produtos/lusar-809/produto.json"
+  },
+  {
+    "codigo": "LUSAR 809M",
+    "slug": "lusar-809m",
+    "path": "data/produtos/lusar-809m/produto.json"
+  },
+  {
+    "codigo": "LUSAR 809P",
+    "slug": "lusar-809p",
+    "path": "data/produtos/lusar-809p/produto.json"
+  },
+  {
+    "codigo": "LUSAR 811",
+    "slug": "lusar-811",
+    "path": "data/produtos/lusar-811/produto.json"
+  },
+  {
+    "codigo": "LUSAR 811R",
+    "slug": "lusar-811r",
+    "path": "data/produtos/lusar-811r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 821",
+    "slug": "lusar-821",
+    "path": "data/produtos/lusar-821/produto.json"
+  },
+  {
+    "codigo": "LUSAR 821R",
+    "slug": "lusar-821r",
+    "path": "data/produtos/lusar-821r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 822",
+    "slug": "lusar-822",
+    "path": "data/produtos/lusar-822/produto.json"
+  },
+  {
+    "codigo": "LUSAR 822P",
+    "slug": "lusar-822p",
+    "path": "data/produtos/lusar-822p/produto.json"
+  },
+  {
+    "codigo": "LUSAR 822R",
+    "slug": "lusar-822r",
+    "path": "data/produtos/lusar-822r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 831",
+    "slug": "lusar-831",
+    "path": "data/produtos/lusar-831/produto.json"
+  },
+  {
+    "codigo": "LUSAR 831K",
+    "slug": "lusar-831k",
+    "path": "data/produtos/lusar-831k/produto.json"
+  },
+  {
+    "codigo": "LUSAR 831R",
+    "slug": "lusar-831r",
+    "path": "data/produtos/lusar-831r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 850",
+    "slug": "lusar-850",
+    "path": "data/produtos/lusar-850/produto.json"
+  },
+  {
+    "codigo": "LUSAR 850R",
+    "slug": "lusar-850r",
+    "path": "data/produtos/lusar-850r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 860",
+    "slug": "lusar-860",
+    "path": "data/produtos/lusar-860/produto.json"
+  },
+  {
+    "codigo": "LUSAR 860R",
+    "slug": "lusar-860r",
+    "path": "data/produtos/lusar-860r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 862",
+    "slug": "lusar-862",
+    "path": "data/produtos/lusar-862/produto.json"
+  },
+  {
+    "codigo": "LUSAR 862R",
+    "slug": "lusar-862r",
+    "path": "data/produtos/lusar-862r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 871",
+    "slug": "lusar-871",
+    "path": "data/produtos/lusar-871/produto.json"
+  },
+  {
+    "codigo": "LUSAR 871K",
+    "slug": "lusar-871k",
+    "path": "data/produtos/lusar-871k/produto.json"
+  },
+  {
+    "codigo": "LUSAR 871R",
+    "slug": "lusar-871r",
+    "path": "data/produtos/lusar-871r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 872",
+    "slug": "lusar-872",
+    "path": "data/produtos/lusar-872/produto.json"
+  },
+  {
+    "codigo": "LUSAR 872K",
+    "slug": "lusar-872k",
+    "path": "data/produtos/lusar-872k/produto.json"
+  },
+  {
+    "codigo": "LUSAR 872P",
+    "slug": "lusar-872p",
+    "path": "data/produtos/lusar-872p/produto.json"
+  },
+  {
+    "codigo": "LUSAR 873",
+    "slug": "lusar-873",
+    "path": "data/produtos/lusar-873/produto.json"
+  },
+  {
+    "codigo": "LUSAR 873K",
+    "slug": "lusar-873k",
+    "path": "data/produtos/lusar-873k/produto.json"
+  },
+  {
+    "codigo": "LUSAR 874",
+    "slug": "lusar-874",
+    "path": "data/produtos/lusar-874/produto.json"
+  },
+  {
+    "codigo": "LUSAR 874M",
+    "slug": "lusar-874m",
+    "path": "data/produtos/lusar-874m/produto.json"
+  },
+  {
+    "codigo": "LUSAR 874T",
+    "slug": "lusar-874t",
+    "path": "data/produtos/lusar-874t/produto.json"
+  },
+  {
+    "codigo": "LUSAR 881",
+    "slug": "lusar-881",
+    "path": "data/produtos/lusar-881/produto.json"
+  },
+  {
+    "codigo": "LUSAR 881K",
+    "slug": "lusar-881k",
+    "path": "data/produtos/lusar-881k/produto.json"
+  },
+  {
+    "codigo": "LUSAR 881R",
+    "slug": "lusar-881r",
+    "path": "data/produtos/lusar-881r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 890",
+    "slug": "lusar-890",
+    "path": "data/produtos/lusar-890/produto.json"
+  },
+  {
+    "codigo": "LUSAR 890R",
+    "slug": "lusar-890r",
+    "path": "data/produtos/lusar-890r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 891",
+    "slug": "lusar-891",
+    "path": "data/produtos/lusar-891/produto.json"
+  },
+  {
+    "codigo": "LUSAR 891K",
+    "slug": "lusar-891k",
+    "path": "data/produtos/lusar-891k/produto.json"
+  },
+  {
+    "codigo": "LUSAR 900",
+    "slug": "lusar-900",
+    "path": "data/produtos/lusar-900/produto.json"
+  },
+  {
+    "codigo": "LUSAR 900N",
+    "slug": "lusar-900n",
+    "path": "data/produtos/lusar-900n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 900R",
+    "slug": "lusar-900r",
+    "path": "data/produtos/lusar-900r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 900RN",
+    "slug": "lusar-900rn",
+    "path": "data/produtos/lusar-900rn/produto.json"
+  },
+  {
+    "codigo": "LUSAR 901",
+    "slug": "lusar-901",
+    "path": "data/produtos/lusar-901/produto.json"
+  },
+  {
+    "codigo": "LUSAR 901R",
+    "slug": "lusar-901r",
+    "path": "data/produtos/lusar-901r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 902",
+    "slug": "lusar-902",
+    "path": "data/produtos/lusar-902/produto.json"
+  },
+  {
+    "codigo": "LUSAR 902R",
+    "slug": "lusar-902r",
+    "path": "data/produtos/lusar-902r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 903",
+    "slug": "lusar-903",
+    "path": "data/produtos/lusar-903/produto.json"
+  },
+  {
+    "codigo": "LUSAR 903N",
+    "slug": "lusar-903n",
+    "path": "data/produtos/lusar-903n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 903R",
+    "slug": "lusar-903r",
+    "path": "data/produtos/lusar-903r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 903RN",
+    "slug": "lusar-903rn",
+    "path": "data/produtos/lusar-903rn/produto.json"
+  },
+  {
+    "codigo": "LUSAR 903SAPATAS",
+    "slug": "lusar-903sapatas",
+    "path": "data/produtos/lusar-903sapatas/produto.json"
+  },
+  {
+    "codigo": "LUSAR 904",
+    "slug": "lusar-904",
+    "path": "data/produtos/lusar-904/produto.json"
+  },
+  {
+    "codigo": "LUSAR 904N",
+    "slug": "lusar-904n",
+    "path": "data/produtos/lusar-904n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 904R",
+    "slug": "lusar-904r",
+    "path": "data/produtos/lusar-904r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 904RN",
+    "slug": "lusar-904rn",
+    "path": "data/produtos/lusar-904rn/produto.json"
+  },
+  {
+    "codigo": "LUSAR 905",
+    "slug": "lusar-905",
+    "path": "data/produtos/lusar-905/produto.json"
+  },
+  {
+    "codigo": "LUSAR 905N",
+    "slug": "lusar-905n",
+    "path": "data/produtos/lusar-905n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 905R",
+    "slug": "lusar-905r",
+    "path": "data/produtos/lusar-905r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 905RN",
+    "slug": "lusar-905rn",
+    "path": "data/produtos/lusar-905rn/produto.json"
+  },
+  {
+    "codigo": "LUSAR 906",
+    "slug": "lusar-906",
+    "path": "data/produtos/lusar-906/produto.json"
+  },
+  {
+    "codigo": "LUSAR 906R",
+    "slug": "lusar-906r",
+    "path": "data/produtos/lusar-906r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 907",
+    "slug": "lusar-907",
+    "path": "data/produtos/lusar-907/produto.json"
+  },
+  {
+    "codigo": "LUSAR 907R",
+    "slug": "lusar-907r",
+    "path": "data/produtos/lusar-907r/produto.json"
+  },
+  {
+    "codigo": "LUSAR 908",
+    "slug": "lusar-908",
+    "path": "data/produtos/lusar-908/produto.json"
+  },
+  {
+    "codigo": "LUSAR 908N",
+    "slug": "lusar-908n",
+    "path": "data/produtos/lusar-908n/produto.json"
+  },
+  {
+    "codigo": "LUSAR 911",
+    "slug": "lusar-911",
+    "path": "data/produtos/lusar-911/produto.json"
+  },
+  {
+    "codigo": "LUSAR 912",
+    "slug": "lusar-912",
+    "path": "data/produtos/lusar-912/produto.json"
+  },
+  {
+    "codigo": "LUSAR 913",
+    "slug": "lusar-913",
+    "path": "data/produtos/lusar-913/produto.json"
+  },
+  {
+    "codigo": "LUSAR 914",
+    "slug": "lusar-914",
+    "path": "data/produtos/lusar-914/produto.json"
+  },
+  {
+    "codigo": "LUSAR 915",
+    "slug": "lusar-915",
+    "path": "data/produtos/lusar-915/produto.json"
+  }
+]

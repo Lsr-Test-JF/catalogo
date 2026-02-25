@@ -1,0 +1,27 @@
+{
+  "codigo": "LUSAR 107/208",
+  "nome": "Sapata de Freio LUSAR 107/208",
+  "marca_caminhao": "Chevrolet, Ford",
+  "categoria": "Sapata de Freio Hidráulica",
+  "tipo": "oleo",
+  "descricao": "Sapata de Freio LUSAR 107/208 desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "225.7920-SNº Chevrolet GM: 94.604.416Nº Ford: BEOC 2219",
+    "Medidas do Freio": "11” x 2 ½”",
+    "Tipo de Sistema": "Freio a óleo",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-107-208/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Chevrolet GM A-14A, A-15A, C-14A (1 TON), C-15A, D-10 (79/84), A-20, C-20, D-20 (85/...)",
+    "Ford F-1000 (todos)"
+  ],
+  "observacoes": "Todas as sapatas são fornecidas sem lonas.",
+  "marcas": [
+    "Chevrolet",
+    "Ford"
+  ],
+  "slug": "lusar-107-208"
+}

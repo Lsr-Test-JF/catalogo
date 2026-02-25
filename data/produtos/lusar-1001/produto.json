@@ -1,0 +1,27 @@
+{
+  "codigo": "LUSAR 1001",
+  "nome": "Sapata de Freio LUSAR 1001",
+  "marca_caminhao": "Chevrolet, Volkswagen",
+  "categoria": "Sapata de Freio Hidráulica",
+  "tipo": "oleo",
+  "descricao": "Sapata de Freio LUSAR 1001 desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "225.8928-SNº Chevrolet GM: 94.631.371Nº Volkswagen: T-11.609.543Lonas: FRAS-LE: VW/256 | LONAFLEX: L-540 | THERMOID: TH-145Medidas do freio: 15” x 4”",
+    "Medidas do Freio": "15” x 4”",
+    "Tipo de Sistema": "Freio a óleo",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-1001/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Chevrolet GM A–60, C-60, D-60 (80/...)",
+    "Volkswagen VW 11.130 (81/...)"
+  ],
+  "observacoes": "Todas as sapatas são fornecidas sem lonas.",
+  "marcas": [
+    "Chevrolet",
+    "Volkswagen"
+  ],
+  "slug": "lusar-1001"
+}

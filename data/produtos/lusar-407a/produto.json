@@ -1,0 +1,25 @@
+{
+  "codigo": "LUSAR 407A",
+  "nome": "Sapata de Freio LUSAR 407A",
+  "marca_caminhao": "Mercedes",
+  "categoria": "Sapata de Freio Pesada",
+  "tipo": "ar",
+  "descricao": "Sapata de Freio LUSAR 407A desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "Consultar catálogo técnico",
+    "Medidas do Freio": "410 mm x 120 mm",
+    "Tipo de Sistema": "Freio a ar",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-407a/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Mercedes Benz MBB  L/LK/LS-1113, 1114  (84/...) , L-1115  (84/...) , L/LK-1214  (84/...) , L-1218 (84/...) ,  LA/LAK-1313, 1314, 1316, 1317, 1318, 1418 (84/...)"
+  ],
+  "observacoes": "Com Rolete",
+  "marcas": [
+    "Mercedes"
+  ],
+  "slug": "lusar-407a"
+}

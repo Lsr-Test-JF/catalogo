@@ -1,0 +1,29 @@
+{
+  "codigo": "LUSAR 904R",
+  "nome": "Sapata de Freio LUSAR 904R",
+  "marca_caminhao": "Chevrolet, Ford, Volkswagen",
+  "categoria": "Sapata de Freio Pesada",
+  "tipo": "ar",
+  "descricao": "Sapata de Freio LUSAR 904R desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "Consultar catálogo técnico",
+    "Medidas do Freio": "15” X 6”",
+    "Tipo de Sistema": "Freio a ar",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-904r/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Ford C-1618, C-1619, C-2319 (6 x 2), C-2319 (T 6 x 2), C-3224 (91/96), Ford C-2324 (6 x 4) (91/97), C-1215, C-1622, C-2322, C-2322 (T 6 x2), C-2422, C-2422 (6 x 4), C-4030 (92/96), C-3530 (92/97), F-11000, F-12000, C-1617 (92/96)",
+    "Chevrolet GM GMC 15-190 (98/...)",
+    "Volkswagen 16180, 16210 (Freio BENDIX)"
+  ],
+  "observacoes": "Com Rolete",
+  "marcas": [
+    "Chevrolet",
+    "Ford",
+    "Volkswagen"
+  ],
+  "slug": "lusar-904r"
+}

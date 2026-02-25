@@ -1,0 +1,25 @@
+{
+  "codigo": "LUSAR 306N",
+  "nome": "Sapata de Freio LUSAR 306N",
+  "marca_caminhao": "Mercedes",
+  "categoria": "Sapata de Freio Pesada",
+  "tipo": "ar",
+  "descricao": "Sapata de Freio LUSAR 306N desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "Consultar catálogo técnico",
+    "Medidas do Freio": "410 mm x 220 mm",
+    "Tipo de Sistema": "Freio a ar",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-306n/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Mercedes Benz MBB 0-370, 0-371, 0-400 (84/...)"
+  ],
+  "observacoes": "Com Rolete",
+  "marcas": [
+    "Mercedes"
+  ],
+  "slug": "lusar-306n"
+}

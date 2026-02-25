@@ -1,0 +1,29 @@
+{
+  "codigo": "LUSAR 862",
+  "nome": "Sapata de Freio LUSAR 862",
+  "marca_caminhao": "Iveco, Mercedes, Volvo",
+  "categoria": "Sapata de Freio Pesada",
+  "tipo": "ar",
+  "descricao": "Sapata de Freio LUSAR 862 desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "A3222FM61Lonas: FRAS-LE: CA/33 | LONAFLEX: L-636 | THERMOID: TH-204Medidas do freio: 419 mm x 203,2 mm / 16 ½” x 8” Q-PLUS",
+    "Medidas do Freio": "419 mm x 203,2 mm / 16 ½” x 8” Q-PLUS",
+    "Tipo de Sistema": "Freio a ar",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-862/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "Trucks e Carretas Randon (99/...), Guerra Q-Plus (95/...)",
+    "Mercedes Benz MBB 1938 (adaptação), 3º eixo 1935, 1938 (original pneumático)",
+    "Volvo 3º eixo FH12, NH12        Iveco 3º eixo Stralis 6 x 2"
+  ],
+  "observacoes": "Com Rolete",
+  "marcas": [
+    "Iveco",
+    "Mercedes",
+    "Volvo"
+  ],
+  "slug": "lusar-862"
+}

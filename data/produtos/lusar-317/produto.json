@@ -1,0 +1,25 @@
+{
+  "codigo": "LUSAR 317",
+  "nome": "Sapata de Freio LUSAR 317",
+  "marca_caminhao": "Universal",
+  "categoria": "Sapata de Freio Pesada",
+  "tipo": "ar",
+  "descricao": "Sapata de Freio LUSAR 317 desenvolvida para aplicações em caminhões e ônibus, com alta resistência mecânica e precisão de encaixe.",
+  "especificacoes": {
+    "Número Original": "Consultar catálogo técnico",
+    "Medidas do Freio": "Consultar catálogo técnico",
+    "Tipo de Sistema": "Freio a ar",
+    "Fornecimento": "Sem lonas"
+  },
+  "imagens": [
+    "data/produtos/lusar-317/imagens/capa.svg"
+  ],
+  "aplicacoes": [
+    "MBB: 608D (80/...), 1313, 1316, 1419, 1513, 1516, 1517, 1519, 1520, 2013, 2213, 2216, 2219 MBB ônibus: Todos com motor dianteiro"
+  ],
+  "observacoes": "Todas as sapatas são fornecidas sem lonas.",
+  "marcas": [
+    "Universal"
+  ],
+  "slug": "lusar-317"
+}
